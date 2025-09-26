@@ -34,7 +34,7 @@ try:
 
 >> Payload generator for Metasploit <<"""+CY+"""
       ---------------------------"""+B+"""
-        Code By -> Deadpool2000""")
+        Code By -> eren0""")
         
     def main():
         print(R+"""\n************************************************"""+CY+"""\n
